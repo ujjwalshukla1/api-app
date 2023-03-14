@@ -1,0 +1,674 @@
+.bg {
+    background-image: url("C:\Users\91626\api-app\public\HEROBG.png");
+    background-size: cover;
+    height: 750px;
+}
+
+.nav {
+    position: absolute;
+    width: 34px;
+    height: 34px;
+    left: 20px;
+    top: 15px;
+}
+
+.para {
+    position: absolute;
+    width: 84px;
+    height: 16px;
+    right: 555px;
+    top: 13px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+
+    color: #FFFFFF;
+}
+
+.para2 {
+    position: absolute;
+    width: 38px;
+    height: 16px;
+    right: 493px;
+    top: 13px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+
+    color: #FFFFFF;
+}
+
+.para3 {
+    position: absolute;
+    width: 79px;
+    height: 16px;
+    right: 390px;
+    top: 13px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+
+    color: #FFFFFF;
+}
+
+.para4 {
+
+    position: absolute;
+    width: 133px;
+    height: 16px;
+    right: 233px;
+    top: 13px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+
+    color: #FFFFFF;
+}
+
+.para5 {
+
+    position: absolute;
+    width: 29px;
+    height: 16px;
+    right: 178px;
+    top: 13px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+
+    color: #FFFFFF;
+}
+
+.para6 {
+
+    position: absolute;
+    width: 67px;
+    height: 16px;
+    right: 87px;
+    top: 13px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+
+    color: #FFFFFF;
+}
+
+.para7 {
+    position: absolute;
+    width: 67px;
+    height: 16px;
+    right: 5px;
+    top: 13px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+
+    color: #FFFFFF;
+}
+
+.form {
+    background: #FFFFFF;
+    border-radius: 4px;
+
+    position: absolute;
+    width: 391px;
+    height: 508px;
+    left: 80px;
+    top: 132px;
+
+}
+
+.text {
+    position: absolute;
+    width: 343px;
+    height: 114px;
+    left: 24px;
+    top: 32px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 38px;
+
+    color: #484848;
+}
+
+.first {
+    position: absolute;
+    width: 343px;
+    height: 70px;
+    left: 24px;
+    top: 170px;
+}
+
+.second {
+    position: absolute;
+    width: 350px;
+    height: 70px;
+    left: 24px;
+    top: 256px;
+
+}
+
+.third {
+    position: absolute;
+    width: 343px;
+    height: 70px;
+    left: 24px;
+    top: 342px;
+}
+
+.btn {
+    position: absolute;
+    width: 146px;
+    height: 48px;
+    left: 221px;
+    top: 436px;
+    background: #FF5A5F;
+}
+
+.card {
+    width: 391px;
+    height: 85px;
+    border-radius: 12px;
+    filter: drop-shadow(0px 0px 15px rgba(0, 0, 0, 0.15));
+    position: absolute;
+    left: 80px;
+    right: 80px;
+    top: 890px;
+}
+
+.c-text {
+    position: absolute;
+    width: 168px;
+    height: 28px;
+    left: 80px;
+    right: 80px;
+    top: 845px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+
+    color: #484848;
+}
+
+.img-fluid {
+    height: 85px;
+    border-top-left-radius: 12px;
+    border-bottom-left-radius: 12px;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+}
+
+.c-para {
+    position: absolute;
+    width: 81px;
+    height: 19px;
+    left: 145px;
+    top: calc(50% - 19px/2);
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #484848;
+}
+
+.card2 {
+    position: absolute;
+    left: 600px;
+}
+
+.card3 {
+    position: absolute;
+    left: 1100px;
+    right: 80px;
+}
+
+.card4 {
+    position: absolute;
+    width: 1400px;
+    height: 310px;
+    left: 80px;
+    right: 80px;
+    top: 1142px;
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0.15)), #C4C4C4;
+    background-image: url(C:\Users\91626\api-app\public\Rectangle7.png);
+    background-size: cover;
+    border-radius: 4px;
+}
+
+.img-fluid2 {
+    position: absolute;
+    width: 124px;
+    height: 124px;
+    left: calc(50% - 124px/2);
+    top: 60px;
+}
+
+.btn2 {
+    background: white;
+    position: absolute;
+    width: 200px;
+    height: 44px;
+    left: calc(50% - 200px/2);
+    top: 250px;
+}
+
+.plus-text {
+    position: absolute;
+    width: 136px;
+    height: 12px;
+    left: 24px;
+    top: calc(50% - 12px/2);
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 12px;
+
+    text-transform: uppercase;
+
+    color: #484848;
+}
+
+.img-fluid3 {
+    position: absolute;
+    right: 16px;
+    top: calc(50% - 8px/2 - 1px);
+}
+
+.plus-text2 {
+    position: absolute;
+    left: 80px;
+    right: 80px;
+    top: 1063px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+
+    color: #484848;
+}
+
+.plus-text3 {
+    position: absolute;
+    left: 80px;
+    right: 80px;
+    top: 1099px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #484848;
+}
+
+.card5 {
+    position: absolute;
+    height: 469px;
+    left: 80px;
+    right: 78px;
+    top: 1638px;
+    background: #FFFFFF;
+    filter: drop-shadow(0px 0px 0px rgba(0, 0, 0, 0));
+    border: #FFFFFF;
+
+}
+
+.av-text {
+    position: absolute;
+    left: 0px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 12px;
+    text-transform: uppercase;
+    color: #767676;
+}
+
+.av-text2 {
+    position: absolute;
+    left: 0px;
+    top: 280px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    color: #484848;
+
+}
+
+.av-text3 {
+    position: absolute;
+    top: 320px;
+    left: 0px;
+    position: absolute;
+    bottom: 4px;
+    height: 42px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 100;
+    font-size: 13px;
+    line-height: 21px;
+    color: #484848;
+}
+
+.av-text4 {
+    position: absolute;
+    left: 0px;
+    position: absolute;
+    width: 18px;
+    height: 14px;
+    left: 0px;
+    bottom: 3px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 14px;
+
+    color: #008489;
+}
+
+.star {
+    position: absolute;
+    width: 8px;
+    height: 8px;
+    left: 22px;
+    bottom: 3px;
+}
+
+.av-para {
+    position: absolute;
+    width: 342px;
+    height: 28px;
+    left: 80px;
+    top: 1540px;
+
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+
+    color: #484848;
+}
+
+.av-para2 {
+    position: absolute;
+    width: 571px;
+    height: 38px;
+    left: 80px;
+    top: 1576px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 15px;
+    line-height: 19px;
+
+    color: #484848;
+
+}
+
+.card6 {
+    position: absolute;
+    height: 469px;
+    left: 330px;
+    right: 78px;
+    top: 1638px;
+    background: #FFFFFF;
+    filter: drop-shadow(0px 0px 0px rgba(0, 0, 0, 0));
+    border: #FFFFFF;
+
+}
+
+.card7 {
+    position: absolute;
+    height: 469px;
+    left: 570px;
+    right: 78px;
+    top: 1638px;
+    background: #FFFFFF;
+    filter: drop-shadow(0px 0px 0px rgba(0, 0, 0, 0));
+    border: #FFFFFF;
+
+}
+
+.card8 {
+    position: absolute;
+    height: 469px;
+    left: 810px;
+    right: 78px;
+    top: 1638px;
+    background: #FFFFFF;
+    filter: drop-shadow(0px 0px 0px rgba(0, 0, 0, 0));
+    border: #FFFFFF;
+
+}
+
+.card9 {
+    position: absolute;
+    height: 469px;
+    left: 1040px;
+    right: 78px;
+    top: 1638px;
+    background: #FFFFFF;
+    filter: drop-shadow(0px 0px 0px rgba(0, 0, 0, 0));
+    border: #FFFFFF;
+
+}
+
+.card10 {
+    position: absolute;
+    height: 469px;
+    left: 1280px;
+    right: 78px;
+    top: 1638px;
+    background: #FFFFFF;
+    filter: drop-shadow(0px 0px 0px rgba(0, 0, 0, 0));
+    border: #FFFFFF;
+
+}
+
+.e-card {
+    position: absolute;
+    width: 290px;
+    height: 265px;
+    left: 80px;
+    right: 78px;
+    top: 2176px;
+    filter: drop-shadow(0px 0px 0px rgba(0, 0, 0, 0));
+    border: #FFFFFF;
+
+}
+
+.e-btn {
+    background: white;
+    border: 1px solid black;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 8px;
+    line-height: 12px;
+    width: 74px;
+    height: 28px;
+    text-transform: uppercase;
+    filter: drop-shadow(0px 0px 0px rgba(0, 0, 0, 0));
+    color: #484848;
+    position: absolute;
+    width: 74px;
+    height: 28px;
+    left: 0px;
+    top: 208px;
+}
+
+.e-text {
+    position: absolute;
+    height: 14px;
+    left: 87px;
+    right: 44px;
+    top: 215px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+
+    color: #767676;
+}
+
+.p-text {
+    position: absolute;
+    width: 289px;
+    height: 21px;
+    left: 0px;
+    top: 244px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #484848;
+}
+
+.e-img {
+    position: absolute;
+    width: 8px;
+    height: 8px;
+    right: 4px;
+    bottom: 4px;
+}
+
+.rating {
+    position: absolute;
+    right: -30px;
+    top: 0px;
+    color: #484848;
+    ;
+}
+
+.e-text2 {
+    position: absolute;
+    width: 354px;
+    height: 28px;
+    left: 80px;
+    right: 78px;
+    top: 2097px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+
+    color: #484848;
+}
+
+.e-card2 {
+    position: absolute;
+    width: 290px;
+    height: 265px;
+    left: 460px;
+    right: 78px;
+    top: 2176px;
+    filter: drop-shadow(0px 0px 0px rgba(0, 0, 0, 0));
+    border: #FFFFFF;
+}
+
+.e-card3 {
+    position: absolute;
+    width: 290px;
+    height: 265px;
+    left: 830px;
+    right: 78px;
+    top: 2176px;
+    filter: drop-shadow(0px 0px 0px rgba(0, 0, 0, 0));
+    border: #FFFFFF;
+}
+.e-card4 {
+    position: absolute;
+    width: 290px;
+    height: 265px;
+    left: 1200px;
+    right: 78px;
+    top: 2176px;
+    filter: drop-shadow(0px 0px 0px rgba(0, 0, 0, 0));
+    border: #FFFFFF;
+}
+.e-card5{
+    position: absolute;
+    width: 290px;
+    height: 265px;
+    left: 830px;
+    right: 78px;
+    top: 2480px;
+    filter: drop-shadow(0px 0px 0px rgba(0, 0, 0, 0));
+    border: #FFFFFF;
+}
+.e-card6{
+    position: absolute;
+    width: 290px;
+    height: 265px;
+    left: 1200px;
+    right: 78px;
+    top: 2480px;
+    filter: drop-shadow(0px 0px 0px rgba(0, 0, 0, 0));
+    border: #FFFFFF;
+}
+.e-card7{
+    position: absolute;
+    width: 290px;
+    height: 265px;
+    left: 460px;
+    right: 78px;
+    top: 2480px;
+    filter: drop-shadow(0px 0px 0px rgba(0, 0, 0, 0));
+    border: #FFFFFF;
+}
+.e-card8{
+    position: absolute;
+    width: 290px;
+    height: 265px;
+    left: 80px;
+    right: 78px;
+    top: 2480px;
+    filter: drop-shadow(0px 0px 0px rgba(0, 0, 0, 0));
+    border: #FFFFFF;
+}
